@@ -106,3 +106,7 @@
           font-size: 1.2em;
           cursor: pointer;
         }
+        .my-class{
+          text-align: center;
+          margin-top: 100px;
+        }
